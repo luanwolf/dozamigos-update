@@ -1,6 +1,17 @@
-{"schemaVerson": 1,
-"hotfixesFormat": null,
-"versions": [
-    
+{
+    "schemaVerson": 1,
+    "hotfixesFormat": null,
+    "versions": [
+    {
+        "id": "1.0",
+        "releasedAt": "",
+        "promotions": {
+            "downloads": {
+                "modrinth": "",
+                "curseforge": "",
+                "generic": ""
+            }
+        }
+    }
 ]
 }
